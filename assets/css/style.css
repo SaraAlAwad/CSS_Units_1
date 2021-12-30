@@ -1,0 +1,15 @@
+body{
+    box-sizing: border-box;
+    background-image: url(/assets/img/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+  
+
+    }
+    h3{
+        text-align: center;
+        background-color:skyblue;
+        padding: 20px;
+        opacity: .5;
+    }
+
